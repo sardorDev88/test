@@ -1,2 +1,3 @@
 # test
-This is new shell command 
+This is a new shell command 
+this is second shell command
